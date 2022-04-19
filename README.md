@@ -62,3 +62,27 @@ https://eslint.org/docs/user-guide/getting-started
 ### prettire
 
 https://www.prettier.cn/docs//install.html
+
+
+
+### 安装 Redux + Redux Toolkit 
+
+http://cn.redux.js.org/introduction/getting-started
+
+
+
+#### 基于 Redux Toolkit 构建 React 应用
+
+##### 安装依赖
+
+```shell
+yarn add @reduxjs/toolkit
+yarn add redux
+yarn add react-redux
+yarn add redux-devtools
+```
+
+##### 使用 Redux Toolkit
+
+https://redux-toolkit.js.org/tutorials/quick-start
+
